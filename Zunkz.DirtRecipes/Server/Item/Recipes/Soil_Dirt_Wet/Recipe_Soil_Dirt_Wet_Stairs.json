@@ -1,0 +1,24 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Iron"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Soil_Dirt_Wet"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Soil_Dirt_Wet_Stairs"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Soil_Dirt_Wet_Stairs"
+  }
+}

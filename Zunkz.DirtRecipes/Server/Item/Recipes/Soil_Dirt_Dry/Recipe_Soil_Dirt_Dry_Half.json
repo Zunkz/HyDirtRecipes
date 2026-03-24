@@ -1,0 +1,26 @@
+{
+  "BenchRequirement": [
+    {
+      "Id": "Builders",
+      "Type": "StructuralCrafting",
+      "Categories": [
+        "Metal_Iron"
+      ]
+    }
+  ],
+  "Input": [
+    {
+      "ItemId": "Soil_Dirt_Dry"
+    }
+  ],
+  "Output": [
+    {
+      "ItemId": "Soil_Dirt_Dry_Half",
+      "Quantity": 2
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Soil_Dirt_Dry_Half",
+    "Quantity": 2
+  }
+}
